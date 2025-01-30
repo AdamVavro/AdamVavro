@@ -2,6 +2,23 @@
 
 Gaining practical experience with VBA while implementing improvement proposals at my current job opened the door to the world of programming. I am looking for a new job where I can further develop my programming skills.
 
+My skills
+
+  - VBA
+  - HTML
+  - CSS
+  - SASS
+  - JavaScript
+  - jQuery
+  - PHP
+  - OOP
+
+Courses completed
+
+  - Webrebel 1: HTML, CSS & JavaScript
+  - Základy programovania a OOP
+  - CSS preprocesory: Sass
+  
 <!--
 **AdamVavro/AdamVavro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
