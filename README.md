@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Adam
+
+Gaining practical experience with VBA while implementing improvement proposals at my current job opened the door to the world of programming. I am looking for a new job where I can further develop my programming skills.
 
 <!--
 **AdamVavro/AdamVavro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
