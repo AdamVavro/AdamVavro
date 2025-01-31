@@ -2,7 +2,7 @@
 
 Gaining practical experience with VBA while implementing improvement proposals at my current job opened the door to the world of programming. I am looking for a new job where I can further develop my programming skills.
 
-My skills
+###My skills
 
   - VBA
   - HTML
@@ -13,7 +13,7 @@ My skills
   - PHP
   - OOP
 
-Courses completed
+###Courses completed
 
   - Webrebel 1: HTML, CSS & JavaScript
   - Základy programovania a OOP
