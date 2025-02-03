@@ -1,9 +1,11 @@
-## Hi there 👋, I'm Adam
+## Ahoje, volám sa Adam.
+<!--## Hi there 👋, I'm Adam-->
 
-Gaining practical experience with VBA while implementing improvement proposals at my current job opened the door to the world of programming. I am looking for a new job where I can further develop my programming skills.
+Získanie praktických skúseností s VBA počas implementácie zlepšovacích návrhov v mojej súčasnej práci mi otvorilo dvere do sveta programovania. Hľadám si novú prácu, kde by som mohol ďalej rozvíjať svoje programátorské schopnosti.
+<!--Gaining practical experience with VBA while implementing improvement proposals at my current job opened the door to the world of programming. I am looking for a new job where I can further develop my programming skills.-->
 
-### My skills
-
+### Moje znalosti
+<!--### My skills-->
   - VBA
   - HTML
   - CSS
@@ -12,9 +14,10 @@ Gaining practical experience with VBA while implementing improvement proposals a
   - jQuery
   - PHP
   - OOP
+  - GitHub
 
-### Courses completed
-
+### Absolvované kurzy
+<!--### Courses completed-->
   - Webrebel 1: HTML, CSS & JavaScript
   - Základy programovania a OOP
   - CSS preprocesory: Sass
