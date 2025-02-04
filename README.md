@@ -1,4 +1,4 @@
-## Ahoje, volám sa Adam.
+## Ahojte, volám sa Adam.
 <!--## Hi there 👋, I'm Adam-->
 
 Získanie praktických skúseností s VBA počas implementácie zlepšovacích návrhov v mojej súčasnej práci mi otvorilo dvere do sveta programovania. Hľadám si novú prácu, kde by som mohol ďalej rozvíjať svoje programátorské schopnosti.
