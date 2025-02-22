@@ -14,6 +14,7 @@ Získanie praktických skúseností s VBA počas implementácie zlepšovacích n
   - jQuery
   - PHP
   - OOP
+  - Git
   - GitHub
 
 ### Absolvované kurzy
