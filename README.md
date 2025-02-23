@@ -8,6 +8,7 @@ Získanie praktických skúseností s VBA počas implementácie zlepšovacích n
 <!--### My skills-->
   - VBA
   - HTML
+  - CSS
   - SASS
   - JavaScript
   - jQuery
