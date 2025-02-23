@@ -16,6 +16,7 @@ Získanie praktických skúseností s VBA počas implementácie zlepšovacích n
   - OOP
   - Git
   - GitHub
+  - Visual Studio Code
 
 ### Absolvované kurzy
 <!--### Courses completed-->
