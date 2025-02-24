@@ -23,6 +23,7 @@ Získanie praktických skúseností s VBA počas implementácie zlepšovacích n
   - Webrebel 1: HTML, CSS & JavaScript
   - Základy programovania a OOP
   - CSS preprocesory: Sass
+  - Git a GitHub základy
   
 <!--
 **AdamVavro/AdamVavro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
