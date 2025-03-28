@@ -9,9 +9,11 @@ Získanie praktických skúseností s VBA počas implementácie zlepšovacích n
   - VBA
   - HTML
   - CSS
+  - TailwindCSS
   - SASS
   - JavaScript
   - jQuery
+  - Next.js
   - PHP
   - OOP
   - Git
